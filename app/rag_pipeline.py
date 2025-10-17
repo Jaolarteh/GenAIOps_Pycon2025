@@ -63,7 +63,7 @@ def load_vectorstore_from_disk(persist_path=VECTOR_DIR):
     embeddings = OpenAIEmbeddings()
     return FAISS.load_local(persist_path, embeddings, allow_dangerous_deserialization=True)
 
-def load_prompt(version="v1_asistente_rrhh"):
+def load_prompt(version="v1_asistente"):
     prompt_path = os.path.join(PROMPT_DIR, f"{version}.txt")
     if not os.path.exists(prompt_path):
         raise FileNotFoundError(f"Prompt no encontrado: {prompt_path}")
@@ -71,7 +71,7 @@ def load_prompt(version="v1_asistente_rrhh"):
         prompt_text = f.read()
     return PromptTemplate(input_variables=["context", "question"], template=prompt_text)
 
-def build_chain(vectordb, prompt_version="v1_asistente_rrhh"):
+def build_chain(vectordb, prompt_version="v1_asistente"):
     prompt = load_prompt(prompt_version)
     retriever = vectordb.as_retriever()
     return ConversationalRetrievalChain.from_llm(

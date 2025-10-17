@@ -1,22 +1,18 @@
 [
     {
-        "question": "\u00bfQu\u00e9 cubre el plan de beneficios Northwind Health Plus?",
-        "answer": "El plan Northwind Health Plus cubre atenci\u00f3n m\u00e9dica, dental, de la vista, medicamentos recetados y servicios de salud mental."
+        "question": "¿Cuándo se puede dar la conciliación en el proceso de demanda?",
+        "answer": "La conciliación podrá intentarse en cualquier tiempo, antes o después de presentarse la demanda."
     },
     {
-        "question": "\u00bfCu\u00e1l es el procedimiento para tomar una licencia por maternidad?",
-        "answer": "Debes notificar a Recursos Humanos al menos 30 d\u00edas antes de la fecha esperada y presentar la documentaci\u00f3n m\u00e9dica correspondiente."
+        "question": "¿Qué debe contener una demanda laboral?",
+        "answer": "Formas y requisitos de la demanda. La demanda deberá contener:  1. La designación del juez a quien se dirige.  2. El nombre de las partes y el de su representante, si aquellas no comparecen o no pueden comparecer por sí mismas.  3. El domicilio y la dirección de las partes, y si se ignora la del demandado o la de su representante si fuere el caso, se indicará esta circunstancia bajo juramento que se entenderá prestado con la presentación de la demanda.  4. El nombre, domicilio y dirección del apoderado judicial del demandante, si fuere el caso.  5. La indicación de la clase de proceso.  6. Lo que se pretenda, expresado con precisión y claridad. Las varias pretensiones se formularán por separado.  7. Los hechos y omisiones que sirvan de fundamento a las pretensiones, clasificados y enumerados.  8. Los fundamentos y razones de derecho.  9. La petición en forma individualizada y concreta de los medios de prueba, y  10. La cuantía, cuando su estimación sea necesaria para fijar la competencia."
     },
     {
-        "question": "\u00bfQu\u00e9 incluye el programa PerksPlus?",
-        "answer": "PerksPlus incluye descuentos en gimnasios, membres\u00edas de bienestar, vales de alimentos y soporte financiero."
+        "question": "¿Cuál es la duración máxima que puede tener un vínculo laboral para ser considerado como un trabajo ocasional bajo la normativa colombiana vigente?",
+        "answer": "Según el ARTICULO 6. TRABAJO OCASIONAL se define como trabajo ocasional, accidental o transitorio, es el de corta duración y no mayor de un mes, que se refiere a labores distintas de las actividades normales del empleador."
     },
     {
-        "question": "\u00bfQu\u00e9 responsabilidades tiene un analista de datos seg\u00fan el role library?",
-        "answer": "Seg\u00fan el Role Library, un analista de datos debe recolectar, limpiar y analizar datos para generar reportes estrat\u00e9gicos para el negocio."
-    },
-    {
-        "question": "\u00bfCu\u00e1les son los beneficios est\u00e1ndar de Northwind?",
-        "answer": "Los beneficios est\u00e1ndar incluyen seguro m\u00e9dico b\u00e1sico, vacaciones pagadas, y plan de retiro 401(k)."
+        "question": "¿Hay algún beneficio especial para trabajadores de las zonas bananeras?",
+        "answer": "Según el ARTICULO 32 toda empresa agrícola de la zona bananera del departamento del Magdalena que tenga a su servicio más de cinco (5) trabajadores de carácter permanente tiene como obligación especial la de suministrar asistencia médica, quirúrgica, hospitalaria y farmacéutica, en caso de enfermedad no profesional, y hasta por seis (6) meses, cuando su capital exceda de doscientos mil pesos ($200.000), y hasta por tres (3) meses, cuando su capital sea igual o inferior a esa suma."
     }
 ]

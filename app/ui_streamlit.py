@@ -8,9 +8,9 @@ st.set_page_config(page_title="Chatbot GenAI RRHH", layout="centered")
 from app.rag_pipeline import load_vectorstore_from_disk, build_chain
 
 
-st.title("🤖 Asistente de Recursos Humanos - Contoso")
+st.title("Bienvenido a ALS. Tu buscador legal")
 
-question = st.text_input("Escribe tu pregunta sobre beneficios o políticas laborales:")
+question = st.text_input("Escribe tu pregunta sobre la legislatura colombiana del trabajo")
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
